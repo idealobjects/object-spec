@@ -2,7 +2,7 @@
 
 ## Overview
 
-This spec defines a way for creating objects that will work in any ideal objects system. The goal is to create enough of a standard to promote interoperability, but to give the creator as much flexibility as possible.
+This spec defines a way for creating objects that will work in any [ideal objects](http://idealobjects.net/) system. The goal is to create enough of a standard to promote interoperability, but to give the creator as much flexibility as possible.
 
 Each example in this document is in Javascript Object Notation (JSON). Initial systems may be build using this notation, but should not be the limiting factor. Other formats, such as YML and XML, should be possible implementations.
 
